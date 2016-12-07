@@ -1,3 +1,5 @@
+//##Cŕeditos: Victor Hugo (Usori)##
+
 #include <stdio.h> // para usar printf
 #include <string.h> // para usar strlen
 
